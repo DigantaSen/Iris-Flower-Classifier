@@ -2,6 +2,10 @@
 
 A web application that uses Deep Learning to classify Iris flowers into three species based on their sepal and petal measurements.
 
+## 🌐 Live Demo
+
+**Try the app live:** [https://iris-flower-classifier-by-diganta.streamlit.app/](https://iris-flower-classifier-by-diganta.streamlit.app/)
+
 ## 📋 Project Overview
 
 This project implements a Deep Neural Network using TensorFlow/Keras to classify Iris flowers into:
